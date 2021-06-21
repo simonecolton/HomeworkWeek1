@@ -1,5 +1,6 @@
 # HomeworkWeek1
-For our week 1 Homework we were provided with starter code and asked to complete the following
+For our week 1 Homework we were provided with starter code and asked to complete the following:
+
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
